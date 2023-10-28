@@ -1,4 +1,4 @@
-# Hello my name is Nirand 
+# Hey, I'm Nirand 
 ## Currently:
 ⚓️ Hamburg  
 👨🏼‍🎓 Web-Development Bootcamp 
